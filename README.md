@@ -1,7 +1,7 @@
 # NYC Yellow Taxi Big Data Engineering Project
 
 ## Project Overview
-This project analyzes the NYC Yellow Taxi dataset from 2023 to 2025 using Spark and other big data technologies. It includes data cleaning, exploratory data analysis, data warehousing with a star schema, and machine learning to derive insights and predict various aspects of taxi trips.
+This project analyzes the NYC Yellow Taxi dataset from 2023 to 2025 using Spark and other big data technologies. It involves comprehensive data cleaning, exploratory analysis to uncover meaningful insights and patterns, the development of a data warehouse built on a star schema, and the application of machine learning techniques to predict various aspects of taxi trips. Additionally, the solution was developed on Google Cloud Dataproc utilizing cluster parallelization to assess the advantages of cloud computing, resulting in enhanced performance and more scalable data processing.
 
 ## Data Source
 The dataset includes NYC yellow taxi trip records from January 2023 to February 2025, provided as Parquet files by the NYC Taxi & Limousine Commission (TLC). Each file contains information about pickup/dropoff times and locations, trip distances, fares, passenger counts, and payment methods.
@@ -18,6 +18,8 @@ Data source: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 - **total_amount_prediction.ipynb**: Machine learning model to predict total fare amounts
 - **taxi_first_steps.ipynb**: Initial data exploration and preprocessing steps
 - **testing_pandas.ipynb**: Testing notebook for Pandas operations
+- **G_2_report.pdf**: Project report
+- **G_2_presentation.pdf**: Project Presentation
 
 ### Data Files
 - **data/**: Directory containing yellow taxi data in Parquet format (all months from 2023-01 to 2025-02)
@@ -56,7 +58,7 @@ Data source: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 - **Machine Learning**: Various algorithms for predictive modeling
 
 ## How to Use
-1. Follow the rules presented in moodle
+1. Follow the rules presented in Moodle
 
 
 ## Results (Melhorar???)
