@@ -8,6 +8,9 @@ The dataset includes NYC yellow taxi trip records from January 2023 to February 
 
 Data source: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
+## Dataset Profiling
+The raw dataset comprises 26 Parquet files totaling 1.45 GB on disk. Through PySpark profiling, we determined it contains approximately 86 million records (rows) and 22 columns (features), including temporal, geographic, and fare-related attributes. Summary statistics, distribution analyses, and missing value assessments were generated for all features to evaluate data quality and guide subsequent cleaning and feature engineering.
+
 ## Project Structure
 
 ### Notebooks
@@ -63,7 +66,7 @@ Data source: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 1. Follow the rules presented in Moodle
 
 
-## Results (Melhorar???)
+## Results 
 The project provides insights into NYC taxi patterns, including:
 - Peak hours and days for taxi services
 - Most popular routes and zones
