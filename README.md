@@ -16,8 +16,10 @@ Data source: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 - **dropoff_location_prediction.ipynb**: Machine learning model to predict dropoff locations
 - **taxi_predict_tip.ipynb**: Machine learning model to predict tip amounts
 - **total_amount_prediction.ipynb**: Machine learning model to predict total fare amounts
-- **taxi_first_steps.ipynb**: Initial data exploration and preprocessing steps
+- **taxi_first_steps.ipynb**: Initial data exploration and preprocessing steps and prediction of fare amount
 - **testing_pandas.ipynb**: Testing notebook for Pandas operations
+
+### Report and Presentation
 - **G_2_report.pdf**: Project report
 - **G_2_presentation.pdf**: Project Presentation
 
@@ -55,7 +57,7 @@ Data source: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 - **Matplotlib/Seaborn**: For data visualization
 - **SparkSQL**: SparkSQL for data querying
 - **Dataframe API**: Dataframe API for data querying
-- **Machine Learning**: Various algorithms for predictive modeling
+- **Machine Learning**: Various algorithms for predictive modeling (Spark ML)
 
 ## How to Use
 1. Follow the rules presented in Moodle
