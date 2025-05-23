@@ -21,7 +21,7 @@ The raw dataset comprises 26 Parquet files totaling 1.45 GB on disk. Through PyS
 - **taxi_first_steps.ipynb**: Initial data exploration and preprocessing steps and prediction of fare amount
 - **testing_pandas.ipynb**: Testing notebook for Pandas operations
 - **DW_&_ETL.ipynb**: Main notebook for Data Warehouse creation using a star schema design with fact and dimension tables
-- **nyc_pipeline_cloud.py**: Code used in Google Dataproc for machine learning implementation and time testing
+- **nyc_pipeline_cloud.py**: Example of the code used in Google Dataproc for machine learning implementation and time testing
 
 ### Report and Presentation
 - **G_2_report.pdf**: Project report
