@@ -21,10 +21,12 @@ The raw dataset comprises 26 Parquet files totaling 1.45 GB on disk. Through PyS
 - **taxi_first_steps.ipynb**: Initial data exploration and preprocessing steps and prediction of fare amount
 - **testing_pandas.ipynb**: Testing notebook for Pandas operations
 - **DW_&_ETL.ipynb**: Main notebook for Data Warehouse creation using a star schema design with fact and dimension tables
+- **nyc_pipeline_cloud.py**: Code used in Google Dataproc for machine learning implementation and time testing
 
 ### Report and Presentation
 - **G_2_report.pdf**: Project report
 - **G_2_presentation.pdf**: Project Presentation
+- **spark_ml_training_times.xlsx**: Results of ML training in Google Dataproc
 
 ### Data Files
 - **data/**: Directory containing yellow taxi data in Parquet format (all months from 2023-01 to 2025-02)
@@ -61,6 +63,7 @@ The raw dataset comprises 26 Parquet files totaling 1.45 GB on disk. Through PyS
 - **SparkSQL**: SparkSQL for data querying
 - **Dataframe API**: Dataframe API for data querying
 - **Machine Learning**: Various algorithms for predictive modeling (Spark ML)
+- **Google Cloud Computing**: Used for testing spark paralelization in the cloud
 
 ## How to Use
 1. Follow the rules presented in Moodle
@@ -73,6 +76,7 @@ The project provides insights into NYC taxi patterns, including:
 - Factors affecting fare amounts and tips
 - Prediction models for various trip outcomes
 - A comprehensive data warehouse for ongoing analysis
+- Analysis of spark parameteres impact in model trainning
 
 ## Contributors
 - Group 2 Big Data Project Team:
