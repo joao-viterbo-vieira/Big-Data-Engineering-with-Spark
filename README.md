@@ -22,6 +22,7 @@ The raw dataset comprises 26 Parquet files totaling 1.45 GB on disk. Through PyS
 - **testing_pandas.ipynb**: Testing notebook for Pandas operations
 - **DW_&_ETL.ipynb**: Main notebook for Data Warehouse creation using a star schema design with fact and dimension tables
 - **nyc_pipeline_cloud.py**: Example of the code used in Google Dataproc for machine learning implementation and time testing
+- **G_2_code_examplecloud.py**: Example of the code used in Google Dataproc for machine learning implementation and time testing
 
 ### Report and Presentation
 - **G_2_report.pdf**: Project report
@@ -67,6 +68,9 @@ The raw dataset comprises 26 Parquet files totaling 1.45 GB on disk. Through PyS
 
 ## How to Use
 1. Follow the rules presented in Moodle
+
+## Data  
+Download the [data](https://github.com/joao-viterbo-vieira/Big-Data-Engineering-with-Spark) folder from the GitHub repository to obtain the 26 Parquet files totaling 1.45GB. (link:https://github.com/joao-viterbo-vieira/Big-Data-Engineering-with-Spark)
 
 
 ## Results 
