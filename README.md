@@ -69,8 +69,8 @@ The raw dataset comprises 26 Parquet files totaling 1.45 GB on disk. Through PyS
 ## How to Use
 1. Follow the rules presented in Moodle
 
-## Data  
-Download the [data](https://github.com/joao-viterbo-vieira/Big-Data-Engineering-with-Spark) folder from the GitHub repository to obtain the 26 Parquet files totaling 1.45GB. (link:https://github.com/joao-viterbo-vieira/Big-Data-Engineering-with-Spark)
+## Data (1.43Gb) 
+Download the [data](https://github.com/joao-viterbo-vieira/Big-Data-Engineering-with-Spark) folder from the GitHub repository to obtain the 26 Parquet files totaling 1.43Gb. (link:https://github.com/joao-viterbo-vieira/Big-Data-Engineering-with-Spark)
 
 
 ## Results 
