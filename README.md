@@ -11,13 +11,13 @@ Data source: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 ## Project Structure
 
 ### Notebooks
-- **DW_&_ETL.ipynb**: Main notebook for Data Warehouse creation using a star schema design with fact and dimension tables
 - **Descriptive&Pattern_Analysis.ipynb**: Comprehensive exploratory data analysis and pattern discovery
 - **dropoff_location_prediction.ipynb**: Machine learning model to predict dropoff locations
 - **taxi_predict_tip.ipynb**: Machine learning model to predict tip amounts
 - **total_amount_prediction.ipynb**: Machine learning model to predict total fare amounts
 - **taxi_first_steps.ipynb**: Initial data exploration and preprocessing steps and prediction of fare amount
 - **testing_pandas.ipynb**: Testing notebook for Pandas operations
+- **DW_&_ETL.ipynb**: Main notebook for Data Warehouse creation using a star schema design with fact and dimension tables
 
 ### Report and Presentation
 - **G_2_report.pdf**: Project report
