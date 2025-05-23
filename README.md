@@ -22,11 +22,11 @@ The raw dataset comprises 26 Parquet files totaling 1.45 GB on disk. Through PyS
 - **testing_pandas.ipynb**: Testing notebook for Pandas operations
 - **DW_&_ETL.ipynb**: Main notebook for Data Warehouse creation using a star schema design with fact and dimension tables
 - **nyc_pipeline_cloud.py**: Example of the code used in Google Dataproc for machine learning implementation and time testing
-- **G_2_code_examplecloud.py**: Example of the code used in Google Dataproc for machine learning implementation and time testing
+- **G2_code_examplecloud.py**: Example of the code used in Google Dataproc for machine learning implementation and time testing
 
 ### Report and Presentation
-- **G_2_report.pdf**: Project report
-- **G_2_presentation.pdf**: Project Presentation
+- **G2_report.pdf**: Project report
+- **G2_presentation.pdf**: Project Presentation
 - **spark_ml_training_times.xlsx**: Results of ML training in Google Dataproc
 
 ### Data Files
